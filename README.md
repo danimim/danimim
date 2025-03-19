@@ -7,7 +7,6 @@
 
 - Trustful is a project created by [blockful](https://github.com/blockful-io)
 
-- ⚡ Well, **I barely know how to code, but I'm learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
