@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm danimim</h1>
-<h3 align="center">A product manager from Brazil</h3>
+<h3 align="center">A head of growth and product manager from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danimim&label=Profile%20views&color=0e75b6&style=flat" alt="danimim" /> </p>
 
