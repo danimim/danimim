@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danimim&label=Profile%20views&color=0e75b6&style=flat" alt="danimim" /> </p>
 
-- 🔭 I’m currently working on [Anticapture, to make governance attacks unsexy again](https://anticapture.com)
-
-- Anticapture is a project created by [blockful](https://blockful.io)
+- 🔭 I’m currently working on [Moonwell](https://moonwell.fi) and [Mamo](https://mamo.bot).
 
 
 <h3 align="left">Connect with me:</h3>
