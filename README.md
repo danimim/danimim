@@ -1,6 +1,6 @@
 <!-- danimim · profile README · Windows 95 visual identity -->
 
-<div align="center"><b> Growth &amp; Lead &mdash; Web3 &amp; Institutional</b> &middot; Florianópolis, BR</div>
+<div align="center"><b> Growth Lead - Web3 &amp; Institutional</b> &middot; Florianópolis, BR</div>
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
