@@ -104,22 +104,6 @@
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║ ▓▒░  whoami.txt                                        _  □  X ║
-╟────────────────────────────────────────────────────────────────╢
-║                                                                ║
-║   ☀  Florianópolis BR — island brain, on-chain heart           ║
-║   ★  B.A. Literature & Linguistics (Lit + Economics)           ║
-║   ✦  Writes where philosophy meets political economy           ║
-║      meets DAO exploit mechanics                               ║
-║   ♪  Off-chain: vinyl, drums & Batman lore on tap              ║
-║   ☆  PT native · EN fluent · ES adv · FR/RU intermediate       ║
-║   ♥  Reports to a feline board of directors  ▸ see below       ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
 <details>
 <summary><kbd> ⊞ Start ▸ Do you like cats? </kbd></summary>
 
