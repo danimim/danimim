@@ -1,6 +1,6 @@
 <!-- danimim · profile README · Windows 95 visual identity -->
 
-<div align="center"><b>Content &amp; Growth Marketing &mdash; Web3 &amp; Institutional</b> &middot; Florianópolis, BR</div>
+<div align="center"><b> Growth &amp; Lead &mdash; Web3 &amp; Institutional</b> &middot; Florianópolis, BR</div>
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -10,9 +10,7 @@
 ║    ★  Hi, I'm danimim  ♥                                       ║
 ║                                                                ║
 ║    Daniela Zschaber                                            ║
-║    Growth Lead  ·  Web3 & Institutional  ·  Floripa BR         ║
-║                                                                ║
-║    C:\> making security & governance legible since 2015_       ║
+║    Growth Lead  ·  Web3 & Institutional  ·  Floripa BR         ║                                                          ║
 ║                                                                ║
 ║    "Girls just wanna have  ( ) fun   (x) ETH"                  ║
 ║                                                                ║
@@ -30,12 +28,9 @@
 ║ ▓▒░  stats.exe                                         _  □  X ║
 ╟────────────────────────────────────────────────────────────────╢
 ║                                                                ║
-║    ★  years in crypto growth ...................... 10         ║
-║    ★  languages spoken ............................. 5         ║
-║    ★  ETH / Smart stages ........................... 6         ║
-║    ★  protocols defended ........................... 4         ║
+║    ★  years in growth ............................. 10         ║
+║    ★  languages spoken ............................. 5         ║       ║
 ║    ★  MBA courses taught ........................... 2         ║
-║    ★  coffees still owed ........................... ∞         ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -51,7 +46,7 @@
 ║      [ Content Distribution ]                                  ║
 ║                                                                ║
 ║   §  security & governance                                     ║
-║      [ Security Branding ]  [ Governance Defense ]             ║
+║      [ Branding ]  [ Governance Defense ]                      ║
 ║      [ Hostile-Takeover Defense ]                              ║
 ║      [ Long-form Research ]  [ Thought Leadership ]            ║
 ║                                                                ║
