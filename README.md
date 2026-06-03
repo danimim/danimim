@@ -1,16 +1,179 @@
-<h1 align="center">Hi 👋, I'm danimim</h1>
-<h3 align="center">A Growth Lead from Brazil</h3>
+<!-- danimim · profile README · Windows 95 visual identity -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danimim&label=Profile%20views&color=0e75b6&style=flat" alt="danimim" /> </p>
+<div align="center"><b>Content &amp; Growth Marketing &mdash; Web3 &amp; Institutional</b> &middot; Florianópolis, BR</div>
 
-- 🔭 I’m currently working on [Moonwell](https://moonwell.fi) and [Mamo](https://mamo.bot).
+```
+╔════════════════════════════════════════════════════════════════╗
+║ ▓▒░  danimim.exe                                       _  □  X ║
+╟────────────────────────────────────────────────────────────────╢
+║                                                                ║
+║    ★  Hi, I'm danimim  ♥                                       ║
+║                                                                ║
+║    Daniela Zschaber                                            ║
+║    Growth Lead  ·  Web3 & Institutional  ·  Floripa BR         ║
+║                                                                ║
+║    C:\> making security & governance legible since 2015_       ║
+║                                                                ║
+║    "Girls just wanna have  ( ) fun   (x) ETH"                  ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/danimimm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danimimm" height="30" width="40" /></a>
-<a href="https://instagram.com/danimim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danimim" height="30" width="40" /></a>
+☀ · ★ · ✦ · ♥ · ✦ · ★ · ☀
+
+</div>
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ ▓▒░  stats.exe                                         _  □  X ║
+╟────────────────────────────────────────────────────────────────╢
+║                                                                ║
+║    ★  years in crypto growth ...................... 10         ║
+║    ★  languages spoken ............................. 5         ║
+║    ★  ETH / Smart stages ........................... 6         ║
+║    ★  protocols defended ........................... 4         ║
+║    ★  MBA courses taught ........................... 2         ║
+║    ★  coffees still owed ........................... ∞         ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ ▓▒░  stack.sys                                         _  □  X ║
+╟────────────────────────────────────────────────────────────────╢
+║                                                                ║
+║   §  growth & GTM                                              ║
+║      [ Growth Engineering ]  [ GTM Strategy ]                  ║
+║      [ Demand Generation ]  [ BD & Partnerships ]              ║
+║      [ Content Distribution ]                                  ║
+║                                                                ║
+║   §  security & governance                                     ║
+║      [ Security Branding ]  [ Governance Defense ]             ║
+║      [ Hostile-Takeover Defense ]                              ║
+║      [ Long-form Research ]  [ Thought Leadership ]            ║
+║                                                                ║
+║   §  ecosystems & chains                                       ║
+║      [ Ethereum ]  [ Base ]  [ Optimism ]  [ Arbitrum ]        ║
+║      [ Uniswap ]  [ ENS ]                                      ║
+║                                                                ║
+║   §  AI stack                                                  ║
+║      [ Claude ]  [ Runway ]  [ ChatGPT ]                       ║
+║      [ Custom Prompt Libraries (authored) ]                    ║
+║      [ AI + Figma Pipelines ]  [ dither & motion ]             ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ ▓▒░  experience.log                                    _  □  X ║
+╟────────────────────────────────────────────────────────────────╢
+║                                                                ║
+║   2025—now  ►  Moonwell                                        ║
+║              Growth Lead · BD & Partnerships · Base+OP         ║
+║                                                                ║
+║   2024—25   ►  Balancer                                        ║
+║              Growth & Community Lead · AMM / DeFi              ║
+║                                                                ║
+║   2023—24   ►  Blockful / Anticapture                          ║
+║              Growth Lead · Content, Brand & Security           ║
+║                                                                ║
+║   2015—23   ►  NFTFY · Criptonomia · RadarFit                  ║
+║              Growth, Content & Marketing                       ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ ▓▒░  stage.sys                                         _  □  X ║
+╟────────────────────────────────────────────────────────────────╢
+║                                                                ║
+║   §  speaking                                                  ║
+║      ETH Denver · ETH Argentina · ETH Belgrade                 ║
+║      ETH LatAm · SmartCon · ETH Floripa                        ║
+║                                                                ║
+║   §  teaching                                                  ║
+║      ANBIMA       —  crypto certification for banks            ║
+║      UNICAP       —  MBA professor, Crypto & Web3              ║
+║      Descomplica  —  MBA professor, Crypto & Web3              ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ ▓▒░  whoami.txt                                        _  □  X ║
+╟────────────────────────────────────────────────────────────────╢
+║                                                                ║
+║   ☀  Florianópolis BR — island brain, on-chain heart           ║
+║   ★  B.A. Literature & Linguistics (Lit + Economics)           ║
+║   ✦  Writes where philosophy meets political economy           ║
+║      meets DAO exploit mechanics                               ║
+║   ♪  Off-chain: vinyl, drums & Batman lore on tap              ║
+║   ☆  PT native · EN fluent · ES adv · FR/RU intermediate       ║
+║   ♥  Reports to a feline board of directors  ▸ see below       ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<details>
+<summary><kbd> ⊞ Start ▸ Do you like cats? </kbd></summary>
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║ ▓▒░  cats.exe                                          _  □  X ║
+╟────────────────────────────────────────────────────────────────╢
+║                                                                ║
+║    ☆  Feline Resources  (Senior Management)                    ║
+║    ──────────────────────────────────────────                  ║
+║    ►  Merlot       —  morale & strategic naps                  ║
+║    ►  Nietzsche    —  philosophy & the void                    ║
+║    ►  Chardonnay   —  snacks & public relations                ║
+║    ►  Kant         —  ethics & 3am zoomies                     ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+> § **ERROR** &mdash; `Answer "No" is not a valid response.`  
+> The cats have overruled you. Please try again. &nbsp; <kbd> OK </kbd> &nbsp; <kbd> Cancel </kbd>
+
+</details>
+
+<div align="center">
+
+☀ · ★ · ✦ · ♥ · ✦ · ★ · ☀
+
+</div>
+
+### § connect.dll
+
+<p align="center">
+<a href="https://danimim.xyz"><kbd> ☀ danimim.xyz </kbd></a>
+<a href="https://www.linkedin.com/in/daniela-zschaber"><kbd> ★ LinkedIn </kbd></a>
+<a href="https://twitter.com/danimimm"><kbd> ✦ Twitter / X </kbd></a>
+<a href="https://instagram.com/danimim"><kbd> ♥ Instagram </kbd></a>
+<a href="https://moonwell.fi"><kbd> ◆ Moonwell </kbd></a>
+<a href="https://anticapture.com"><kbd> ☆ Anticapture </kbd></a>
+<a href="mailto:danizschaber@gmail.com"><kbd> § Email </kbd></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+<div align="center">
+
+_★ By day I ship growth; by night I'm fairly sure I'm Batman. ★_
+
+**Girls just wanna have** &nbsp; <kbd> ( ) fun </kbd> &nbsp; <kbd> (x) ETH </kbd>
+
+</div>
+
+```
+┌──────────┬────────────────┬─────────────┬───────────────┬───────────┐
+│ ⊞ Start  │ ▓ danimim.exe  │ ▓ cats.exe  │               │ ♥  10:08  │
+└──────────┴────────────────┴─────────────┴───────────────┴───────────┘
+```
+
