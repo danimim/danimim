@@ -12,7 +12,7 @@
 ║    Daniela Zschaber                                            ║
 ║    Growth Lead  ·  Web3 & Institutional  ·  Floripa BR         ║                                                          ║
 ║                                                                ║
-║    "Girls just wanna have  ( ) fun   (x) ETH"                  ║
+║     Girls just wanna have  ( ) fun   (x) ETH                   ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
