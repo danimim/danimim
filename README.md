@@ -135,8 +135,8 @@
 <a href="https://danimim.xyz"><kbd> ☀ danimim.xyz </kbd></a>
 <a href="https://www.linkedin.com/in/daniela-zschaber"><kbd> ★ LinkedIn </kbd></a>
 <a href="https://twitter.com/danimimm"><kbd> ✦ Twitter / X </kbd></a>
-<a href="https://chainstack.com/"><kbd> ◆ Chainstack </kbd></a>
 <a href="mailto:danizschaber@gmail.com"><kbd> § Email </kbd></a>
+<a href="https://chainstack.com/"><kbd> ◆ Chainstack </kbd></a>
 </p>
 
 ---
