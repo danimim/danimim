@@ -93,6 +93,7 @@
 ║                                                                ║
 ║   §  teaching                                                  ║
 ║      ANBIMA       —  crypto certification for banks            ║
+║      Trevisan     -  MBA professor, Crypto & Web3              ║
 ║      UNICAP       —  MBA professor, Crypto & Web3              ║
 ║      Descomplica  —  MBA professor, Crypto & Web3              ║
 ║                                                                ║
