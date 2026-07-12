@@ -136,7 +136,7 @@
 <a href="https://www.linkedin.com/in/daniela-zschaber"><kbd> ★ LinkedIn </kbd></a>
 <a href="https://twitter.com/danimimm"><kbd> ✦ Twitter / X </kbd></a>
 <a href="https://instagram.com/danimim"><kbd> ♥ Instagram </kbd></a>
-<a href="https://moonwell.fi"><kbd> ◆ Moonwell </kbd></a>
+<a href="https://chainstack.com/"><kbd> ◆ Chainstack </kbd></a>
 <a href="https://anticapture.com"><kbd> ☆ Anticapture </kbd></a>
 <a href="mailto:danizschaber@gmail.com"><kbd> § Email </kbd></a>
 </p>
@@ -145,7 +145,7 @@
 
 <div align="center">
 
-_★ By day I ship growth; by night I'm fairly sure I'm Batman. ★_
+_★ By day I ship growth; by night I'm Batman. ★_
 
 **Girls just wanna have** &nbsp; <kbd> ( ) fun </kbd> &nbsp; <kbd> (x) ETH </kbd>
 
