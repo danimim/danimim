@@ -1,6 +1,6 @@
 <!-- danimim · profile README · Windows 95 visual identity -->
 
-<div align="center"><b> Growth Lead - Web3 &amp; Institutional</b> &middot; Florianópolis, BR</div>
+<div align="center"><b> Business Development Manager @ Chainstack</b> &middot; Web3 &amp; Institutional &middot; Florianópolis, BR</div>
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -10,7 +10,7 @@
 ║    ★  Hi, I'm danimim  ♥                                       ║
 ║                                                                ║
 ║    Daniela Zschaber                                            ║
-║    Growth Lead  ·  Web3 & Institutional  ·  Floripa BR         ║                                                          ║
+║    BD Manager @ Chainstack  ·  Web3 & Institutional  ·  BR     ║
 ║                                                                ║
 ║     Girls just wanna have  ( ) fun   (x) ETH                   ║
 ║                                                                ║
@@ -29,7 +29,7 @@
 ╟────────────────────────────────────────────────────────────────╢
 ║                                                                ║
 ║    ★  years in growth ............................. 10         ║
-║    ★  languages spoken ............................. 5         ║       ║
+║    ★  languages spoken ............................. 5         ║
 ║    ★  MBA courses taught ........................... 2         ║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
@@ -44,6 +44,10 @@
 ║      [ Growth Engineering ]  [ GTM Strategy ]                  ║
 ║      [ Demand Generation ]  [ BD & Partnerships ]              ║
 ║      [ Content Distribution ]                                  ║
+║                                                                ║
+║   §  infrastructure                                            ║
+║      [ RPC Nodes ]  [ Web3 Infra ]  [ Enterprise Sales ]       ║
+║      [ Developer Ecosystems ]                                  ║
 ║                                                                ║
 ║   §  security & governance                                     ║
 ║      [ Branding ]  [ Governance Defense ]                      ║
@@ -67,7 +71,10 @@
 ║ ▓▒░  experience.log                                    _  □  X ║
 ╟────────────────────────────────────────────────────────────────╢
 ║                                                                ║
-║   2025—now  ►  Moonwell                                        ║
+║   2026—now  ►  Chainstack                                      ║
+║              Business Development Manager · Web3 Infra         ║
+║                                                                ║
+║   2025—26   ►  Moonwell                                        ║
 ║              Growth Lead · BD & Partnerships · Base+OP         ║
 ║                                                                ║
 ║   2024—25   ►  Balancer                                        ║
@@ -93,7 +100,7 @@
 ║                                                                ║
 ║   §  teaching                                                  ║
 ║      ANBIMA       —  crypto certification for banks            ║
-║      Trevisan     -  MBA professor, Crypto & Web3              ║
+║      Trevisan     —  MBA professor, Crypto & Web3              ║
 ║      UNICAP       —  MBA professor, Crypto & Web3              ║
 ║      Descomplica  —  MBA professor, Crypto & Web3              ║
 ║                                                                ║
@@ -143,9 +150,8 @@
 
 <div align="center">
 
-_★ By day I ship growth; by night I'm Batman. ★_
+_★ By day I ship BD at Chainstack; by night I'm Batman. ★_
 
 **Girls just wanna have** &nbsp; <kbd> ( ) fun </kbd> &nbsp; <kbd> (x) ETH </kbd>
 
 </div>
-
